@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inter7</string>
+    <string name="enviar">enviar</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="hombreoMujer">Hombre o mujer</string>
+    <string name="aceptaPolitica">Acepta La Politica</string>
+    <string name="name">nombre</string>
+    <string name="telefono">Telefono</string>
+</resources>

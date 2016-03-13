@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enviar">send</string>
+    <string name="mujer">woman</string>
+    <string name="hombre">man</string>
+    <string name="hombreoMujer">man or woman</string>
+    <string name="aceptaPolitica">acept the conditions</string>
+    <string name="name">Name</string>
+    <string name="telefono">phone</string>
+</resources>
